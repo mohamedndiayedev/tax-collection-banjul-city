@@ -34,7 +34,7 @@
 	</head>
 	<body id="adminBody" style="width:100%;">
 		<header class="row" style="border-bottom:10px groove #00008B;">
-			<img src="images/logos.png" width="100%" height="150px" />
+			<img src="images/logos.jpg" width="100%" height="150px" />
 			<div class="menu"><span class="menu-text">MENU</span><i class="fa fa-bars"></i></div>
 		</header>
 		<section id="row">
