@@ -19,43 +19,43 @@
 			    	<div class="carousel-item active">
 			      		<img class="image-fluid" src="images/ank1.jpg" alt="Albert" style="width:100%;">
 			      		<div class="carousel-caption">
-			      			<h4>Albert Market Center</h4>
-			      			<p>Activities around Albert market center</p>
+			      			<h4>ROYAL ALBERT MARKETPLACE</h4>
+			      			<p>Activities around ROYAL ALBERT MARKETPLACE</p>
 			      		</div>
 			    	</div>
 			    	<div class="carousel-item">
 			      		<img class="image-fluid" src="images/ank2.jpg" alt="Albert" style="width:100%;">
 			      		<div class="carousel-caption">
-			      			<h4>Albert Market Center</h4>
-			      			<p>Activities around Albert market center</p>
+			      			<h4>ROYAL ALBERT MARKETPLACE</h4>
+			      			<p>Activities around ROYAL ALBERT MARKETPLACE</p>
 			      		</div>
 			    	</div>
 			    	<div class="carousel-item">
 			      		<img class="image-fluid" src="images/muthurwa1.jpg" alt="Albert" style="width:100%;">
 			      		<div class="carousel-caption">
-			      			<h4>Albert Market Center</h4>
-			      			<p>Activities around Albert market center</p>
+			      			<h4>ROYAL ALBERT MARKETPLACE</h4>
+			      			<p>Activities around ROYAL ALBERT MARKETPLACE</p>
 			      		</div>
 			    	</div>
 			    	<div class="carousel-item">
 			      		<img class="image-fluid" src="images/ank3.jpg" alt="Albert" style="width:100%;">
 			      		<div class="carousel-caption">
-			      			<h4>Albert Market Center</h4>
-			      			<p>Activities around Albert market center</p>
+			      			<h4>ROYAL ALBERT MARKETPLACE</h4>
+			      			<p>Activities around ROYAL ALBERT MARKETPLACE</p>
 			      		</div>
 			    	</div>
 			    	<div class="carousel-item">
 			      		<img class="image-fluid" src="images/ank4.jpg" alt="Albert" style="width:100%;">
 			      		<div class="carousel-caption">
-			      			<h4>Albert Market Center</h4>
-			      			<p>Activities around Albert market center</p>
+			      			<h4>ROYAL ALBERT MARKETPLACE</h4>
+			      			<p>Activities around ROYAL ALBERT MARKETPLACE</p>
 			      		</div>
 			    	</div>
 			    	<div class="carousel-item">
 			      		<img class="image-fluid" src="images/ank5.jpg" alt="Albert" style="width:100%; ">
 			      		<div class="carousel-caption">
-			      			<h4>Albert Market Center</h4>
-			      			<p>Activities around Albert market center</p>
+			      			<h4>ROYAL ALBERT MARKETPLACE</h4>
+			      			<p>Activities around ROYAL ALBERT MARKETPLACE</p>
 			      		</div>
 			    	</div>
 			  	</div>
