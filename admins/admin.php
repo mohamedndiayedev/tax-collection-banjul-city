@@ -13,6 +13,7 @@
 	<head>
 		<title>Admin Panel</title>
 		<meta name="viewport" content="user-scalable=no, width=device-width" />
+		<link rel="icon" href="images/logo.png" sizes="16x16" type="image/png">
 		<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="../css/dataTables.bootstrap4.css" />
 		<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css" />
