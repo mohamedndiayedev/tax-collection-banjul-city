@@ -6,12 +6,12 @@ require ('../../fpdf/fpdf.php');
 		function Header(){
 			$this -> SetFont('Arial','B',12);
 			$this -> Cell(12);
-			$this -> Cell(0,9,'MUTHURWA MARKET COUNTY COUNCIL TAX COLLECTION',0,1,"C");
+			$this -> Cell(0,9,'BANJUL CITY COUNCIL TAX COLLECTION',0,1,"C");
 			$this -> SetFont('Arial','B',10);
-			$this -> Cell(0,5,'P.O BOX 43746, NAIROBI KENYA ',0,1,"C");
-			$this -> Cell(0,5,'Website:www.muthurwataxsystem.co.ke',0,1,"C");
-			$this -> Cell(0,5,'Email:admin@muthurwa.co.ke/customercare@muthurwa.co.ke ',0,1,"C");
-			$this -> Cell(0,5,'Phone:+2547-873-453-835/+254747-527-428',0,1,"C");
+			$this -> Cell(0,5,'P.O BOX 90, BANJUL GAMBIA ',0,1,"C");
+			$this -> Cell(0,5,'Website:www.banjul-city-council.gm',0,1,"C");
+			$this -> Cell(0,5,'Email:infos@ank-analytics.com ',0,1,"C");
+			$this -> Cell(0,5,'Phone:+220 4227600 (Mayor\'s Parlour)',0,1,"C");
 			$this -> SetFont('Arial','BU',12);
 			$this -> Cell(0,5,'RECEIPT',0,1,"C");
 		}
@@ -76,10 +76,10 @@ require ('../../fpdf/fpdf.php');
 		$pdf -> Cell(22,5,date('d-m-Y'),0,1);
 		////////////////////////////////////////
 			$pdf -> SetFont('Arial','BI','10','C');
-			$pdf -> Cell(0,5,'MUTHURWA MARKET COUNTY COUNCIL TAX COLLECTION',0,1,'C');
+			$pdf -> Cell(0,5,'BANJUL CITY COUNCIL TAX COLLECTION',0,1,'C');
 			$pdf -> SetFont('Arial','I','8','C');
-			$pdf -> Cell(0,3,'Website:www.muthurwataxsystem.co.ke',0,1,'C');
-			$pdf -> Cell(0,3,'Phone:+2547-873-453-835/+254747-527-428',0,0,'C');
+			$pdf -> Cell(0,3,'Website:www.banjul-city-council.gm',0,1,'C');
+			$pdf -> Cell(0,3,'Phone:+220 4226823 (Cleansing dept.) | 4227600 (Mayor\'s Parlour)',0,0,'C');
 	}
 	$pdf -> Output();
 
