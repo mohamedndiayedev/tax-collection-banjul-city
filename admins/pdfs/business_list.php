@@ -1,7 +1,6 @@
 <?php
 require ('../../fpdf/fpdf.php');
 	require_once("../db.php");
-	//$con = mysqli_connect('localhost','root','','mcladies');
 	class PDF extends FPDF{
 		function Header(){
 			$this -> SetFont('Arial','B',15);
@@ -9,10 +8,10 @@ require ('../../fpdf/fpdf.php');
 			$this -> Cell(0,9,'BANJUL CITY COUNCIL TAX COLLECTION',0,1,"C");
 			$this -> Cell(0,9,'AVAILABLE BUSINESS LISTS',0,1,"C");
 			$this -> SetFont('Arial','B',10);
-			$this -> Cell(0,5,'P.O Box 90, GAMBIA BANJUL ',0,1,"C");
-			$this -> Cell(0,5,'Website:www.banjul-city-council.',0,1,"C");
-			$this -> Cell(0,5,'Email:admin@muthurwa.co.ke/customercare@muthurwa.co.ke ',0,1,"C");
-			$this -> Cell(0,5,'Phone:+2547-873-453-835/+254747-527-428',0,1,"C");
+			$this -> Cell(0,5,'P.O BOX 90, GAMBIA BANJUL ',0,1,"C");
+			$this -> Cell(0,5,'Website:www.banjul-city-council.gm',0,1,"C");
+			$this -> Cell(0,5,'Email:infos@ank-analytics.com ',0,1,"C");
+			$this -> Cell(0,5,'Phone:+220 4227600 (Mayor\'s Parlour)',0,1,"C");
 			$this -> Cell(0,10,'Date:'.date('d-m-Y').'',0,1,"R");
 			$this -> Ln(5);
 			$this -> SetFont('Arial','B',14);
@@ -20,7 +19,7 @@ require ('../../fpdf/fpdf.php');
 			$this -> SetDrawColor(50,50,100);
 			$this -> Cell(10,9,'No',1,0,'',true);
 			$this -> Cell(40,9,'Business Name',1,0,'',true);
-			$this -> Cell(22,9,'Tax GMD',1,0,'',true);
+			$this -> Cell(22,9,'Tax',1,0,'',true);
 			$this -> Cell(40,9,'Business Owner',1,0,'',true);
 			$this -> Cell(28,9,'ID No',1,0,'',true);
 			$this -> Cell(30,9,'Phone',1,0,'',true);
