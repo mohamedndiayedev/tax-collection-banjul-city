@@ -9,7 +9,7 @@ require ('../../fpdf/fpdf.php');
 			$this -> Cell(0,9,'BANJUL CITY COUNCIL TAX COLLECTION',0,1,"C");
 			$this -> Cell(0,9,'AVAILABLE BUSINESS LISTS',0,1,"C");
 			$this -> SetFont('Arial','B',10);
-			$this -> Cell(0,5,'P.O BOX 43746, NAIROBI KENYA ',0,1,"C");
+			$this -> Cell(0,5,'P.O Box 90, NAIROBI KENYA ',0,1,"C");
 			$this -> Cell(0,5,'Website:www.muthurwataxsystem.co.ke',0,1,"C");
 			$this -> Cell(0,5,'Email:admin@muthurwa.co.ke/customercare@muthurwa.co.ke ',0,1,"C");
 			$this -> Cell(0,5,'Phone:+2547-873-453-835/+254747-527-428',0,1,"C");
