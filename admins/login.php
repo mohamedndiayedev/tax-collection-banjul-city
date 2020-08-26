@@ -22,7 +22,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>ESGRAY WESTLANDS MIXED HOSTEL</title>
+		<title>BCC - Tax Collection</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" type="text/css" href="styles/styles.css" />
 		<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
@@ -73,7 +73,7 @@
 			<div class="card">
 				<div class="card-body">
 			<form method="POST" action="login.php">
-					<h3> Admin login</h3>
+					<h3> Admin login - ANK ANALYTICS SYSTEMS</h3>
 					<div><?php echo @$error; ?></div>
 					<div class="form-group">
 						<label class="labels">Enter email</label><br />
