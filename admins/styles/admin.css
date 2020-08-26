@@ -58,7 +58,7 @@ h3{
 	}
 /*ADMIN SIDE MENU STYLING*/
 	.menu{
-		background-color:#ff4500;
+		background-color:#96c93d;
 		font-size:20px;
 		font-weight:bolder;
 		color:#ffffff;
@@ -186,7 +186,7 @@ h3{
 #AdminHeader{width:100%; margin:auto; border-bottom:10px groove #00008B;}
 #AdminSection{width:100%; margin:auto; margin-top:0px; height:800px; background-color:#FFFFFF;}
 #MainArticle {width:75%; float:left; height:1000px; overflow:scroll; padding:20px;}
-#AdminAside{width:20%; float:right; height:1000px;  background-color:#ff4500; border-left:10px groove #00008B; text-align:center;}
+#AdminAside{width:20%; float:right; height:1000px;  background-color:#96c93d; border-left:10px groove #00008B; text-align:center;}
 h5{font-weight:bolder; font-size:20px; text-align:center;}
 #AdminAside a{font-size:30px; color:#FFD700; text-decoration:none; background-image: url(images/md1.JPG)}
 #AdminAside a:hover{font-weight:bolder; text-decoration:underline;}
