@@ -13,7 +13,6 @@
 	<head>
 		<title>Admin Panel</title>
 		<meta name="viewport" content="user-scalable=no, width=device-width" />
-		<link rel="icon" href="images/logo.png" sizes="16x16" type="image/png">
 		<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="../css/dataTables.bootstrap4.css" />
 		<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css" />
@@ -35,11 +34,11 @@
 	</head>
 	<body id="adminBody" style="width:100%;">
 		<header class="row" style="border-bottom:10px groove #00008B;">
-			<img src="images/logos.jpg" width="100%" height="150px" />
+			<img src="images/logos.png" width="100%" height="150px" />
 			<div class="menu"><span class="menu-text">MENU</span><i class="fa fa-bars"></i></div>
 		</header>
 		<section id="row">
-			<aside class="admin" id="adminMenu" style="background-color:#ff4500;">
+			<aside class="admin" id="adminMenu" style="background-color:#96c93d;">
 			<!--////////////////////////////////////HOSTEL ID//////////////////////////////////////////////////////////////-->
 				<input type="hidden" id="hostel_id" value="<?php echo $_SESSION['hostel']?>" />
 				<i class="fa fa-times"></i>
