@@ -58,7 +58,7 @@ require ('../../fpdf/fpdf.php');
 		$pdf -> Cell(40,5,'Tax amount',0,0);
 		$pdf -> Cell(5,5,':',0,0);
 		$pdf -> SetFont('Arial','','10','C');
-		$pdf -> Cell(22,5,'Kshs.'.$row['tax_amount'],0,1);
+		$pdf -> Cell(22,5,'GMD.'.$row['tax_amount'],0,1);
 		$pdf -> SetFont('Arial','b','10','C');
 		$pdf -> Cell(40,5,'Payment mode',0,0);
 		$pdf -> Cell(5,5,':',0,0);
