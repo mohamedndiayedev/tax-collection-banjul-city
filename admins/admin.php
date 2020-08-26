@@ -34,7 +34,7 @@
 	</head>
 	<body id="adminBody" style="width:100%;">
 		<header class="row" style="border-bottom:10px groove #00008B;">
-			<img src="images/logo.png" width="100%" height="150px" />
+			<img src="images/logos.png" width="100%" height="150px" />
 			<div class="menu"><span class="menu-text">MENU</span><i class="fa fa-bars"></i></div>
 		</header>
 		<section id="row">
@@ -52,7 +52,7 @@
 				</div>
 				</center>
 				<nav id="adminNav">
-					<h5>Manage Content</h5>
+					<h5>Manage Payments</h5>
 					<ul id="adminNav-ul">
 						<li><a href="admin.php?add_admin"> Add Admin</a></li>
 						<li class="has-sub"><a href="admin.php?available_business">Availabel Businesses</a></li>
