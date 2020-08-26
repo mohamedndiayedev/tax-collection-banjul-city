@@ -6,7 +6,7 @@ require ('../../fpdf/fpdf.php');
 		function Header(){
 			$this -> SetFont('Arial','B',15);
 			$this -> Cell(12);
-			$this -> Cell(0,9,'MUTHURWA MARKET COUNTY COUNCIL TAX COLLECTION',0,1,"C");
+			$this -> Cell(0,9,'BANJUL CITY COUNCIL TAX COLLECTION',0,1,"C");
 			$this -> Cell(0,9,'AVAILABLE BUSINESS LISTS',0,1,"C");
 			$this -> SetFont('Arial','B',10);
 			$this -> Cell(0,5,'P.O BOX 43746, NAIROBI KENYA ',0,1,"C");
@@ -20,7 +20,7 @@ require ('../../fpdf/fpdf.php');
 			$this -> SetDrawColor(50,50,100);
 			$this -> Cell(10,9,'No',1,0,'',true);
 			$this -> Cell(40,9,'Business Name',1,0,'',true);
-			$this -> Cell(22,9,'Tax',1,0,'',true);
+			$this -> Cell(22,9,'Tax GMD',1,0,'',true);
 			$this -> Cell(40,9,'Business Owner',1,0,'',true);
 			$this -> Cell(28,9,'ID No',1,0,'',true);
 			$this -> Cell(30,9,'Phone',1,0,'',true);
