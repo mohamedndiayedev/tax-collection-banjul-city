@@ -7,7 +7,7 @@
 			<h3>Contact us</h3>
 			<form method="POST">
 				<div class="form-group">
-					<label for="names">Full names</label>
+					<label for="names">Full name</label>
 					<input type="text" class="form-control" placeholder="Enter your full names" />
 				</div>
 				<div class="form-group">
@@ -30,17 +30,17 @@
 		</div>
 		<div class="col-5">
 			<h3>CONTACT US</h3>
-			MUTHURWA MARKET<br />
-			website:www.muthurwataxsystem.co.ke<br />
-			Phone:07873453835/0747527428<br />
-			Email:admin@muthurwa.co.ke/customercare@muthurwa.co.ke<br />
-			<h3> OUR SOCIAL NETWORKS</h3>
-				<image src="images/facebook.png" width="50px" height="50px" />
-				<image src="images/twitter.png" width="50px" height="50px" />
-				<image src="images/GP.png" width="50px" height="50px" />
-				<image src="images/instagram.jpg" width="50px" height="50px" />
-			<h3>LOCATION</h3>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4002.2125280113373!2d36.83058950268518!3d-1.2859024354433988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f112e44e175c9%3A0x1f937c7163539fff!2sMuthurwa+Market!5e1!3m2!1ssw!2ske!4v1534051332819" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+			ANK ANALYTICS<br />
+			website:www.ank-analytics.com<br />
+			Phone: +220 723 6814<br />
+			Email: infos@ank-analytics.com<br />
+			<h3>SOCIAL NETWORKS</h3>
+				<image src="images/facebook.png" width="30px" height="30px" />
+				<image src="images/twitter.png" width="30px" height="30px" />
+				<image src="images/GP.png" width="30px" height="30px" />
+				<image src="images/instagram.jpg" width="30px" height="30px" />
+			<h3>LOCATION - ANK OFFICE</h3>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3880.3061140265713!2d-16.684955985172703!3d13.455218190539902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec29a315b7c104b%3A0x4ee1010918fe566e!2ssky%20high%20group!5e0!3m2!1sen!2sgm!4v1598408965733!5m2!1sen!2sgm" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</div>
 	</article>
 </section>
